@@ -1,0 +1,3 @@
+[submodule "themes/hexo-webnary-theme"]
+	path = themes/hexo-webnary-theme
+	url = https://github.com/BRAVO68WEB/hexo-webnary-theme.git

@@ -1,0 +1,44 @@
+{
+  "published": [],
+  "to-destroy": [],
+  "to-publish": [
+    {
+      "title": "Examples",
+      "permalink": "https://webnary.netlify.app/Examples/",
+      "hexoPublished": true,
+      "tags": [
+        "hello",
+        "test",
+        "world"
+      ]
+    },
+    {
+      "title": "Hello World",
+      "permalink": "https://webnary.netlify.app/hello-world/",
+      "hexoPublished": true,
+      "tags": [
+        "hello",
+        "test",
+        "world"
+      ]
+    },
+    {
+      "title": "404 Page Not Found",
+      "permalink": "https://webnary.netlify.app/404.html",
+      "hexoPublished": true,
+      "tags": []
+    },
+    {
+      "title": "About",
+      "permalink": "https://webnary.netlify.app/about/index.html",
+      "hexoPublished": true,
+      "tags": []
+    },
+    {
+      "title": "search",
+      "permalink": "https://webnary.netlify.app/search/index.html",
+      "hexoPublished": true,
+      "tags": []
+    }
+  ]
+}
