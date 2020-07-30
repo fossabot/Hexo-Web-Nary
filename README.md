@@ -10,6 +10,6 @@ A Hexo Flat Modular Template for Blogging and Static Website Generation | Netlif
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DFCommunity/Hexo-Web-Nary/Web-Nary%20Build%20Status?style=for-the-badge)
 
 
-
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDFCommunity%2FHexo-Web-Nary.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDFCommunity%2FHexo-Web-Nary?ref=badge_large)
+=======
